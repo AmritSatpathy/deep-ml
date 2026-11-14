@@ -1,0 +1,51 @@
+{
+  "generated_at": "2026-11-15T11:31:39.523Z",
+  "items": {
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-11-14T15:18:07.098Z",
+      "last_pushed_at": "2026-11-14T15:18:07.098Z"
+    },
+    "math:9": {
+      "kind": "math",
+      "id": "9",
+      "title": "Matrix Basics",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/9",
+      "path": "math/0009-matrix-basics",
+      "first_solved_at": "2026-11-14T15:18:55.758Z",
+      "last_pushed_at": "2026-11-14T15:18:55.758Z"
+    },
+    "math:10": {
+      "kind": "math",
+      "id": "10",
+      "title": "Matrix Multiplication",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/10",
+      "path": "math/0010-matrix-multiplication",
+      "first_solved_at": "2026-11-14T15:19:30.366Z",
+      "last_pushed_at": "2026-11-14T15:19:30.366Z"
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-11-14T15:21:04.029Z",
+      "last_pushed_at": "2026-11-14T15:21:04.029Z",
+      "language": "python",
+      "lines": 16
+    }
+  }
+}
