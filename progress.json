@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T11:31:39.523Z",
+  "generated_at": "2026-11-15T11:31:41.554Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -46,6 +46,91 @@
       "last_pushed_at": "2026-11-14T15:21:04.029Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-11-15T02:25:47.657Z",
+      "last_pushed_at": "2026-11-15T02:25:47.657Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-11-15T03:24:52.663Z",
+      "last_pushed_at": "2026-11-15T03:24:52.663Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-11-15T03:31:12.778Z",
+      "last_pushed_at": "2026-11-15T03:31:12.778Z",
+      "language": "python",
+      "lines": 5
+    },
+    "math:12": {
+      "kind": "math",
+      "id": "12",
+      "title": "Inverse and Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/12",
+      "path": "math/0012-inverse-and-rank",
+      "first_solved_at": "2026-11-15T03:34:19.416Z",
+      "last_pushed_at": "2026-11-15T03:34:19.416Z"
+    },
+    "math:409": {
+      "kind": "math",
+      "id": "409",
+      "title": "Schur Complements and the Partitioned Inverse",
+      "difficulty": "medium",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/409",
+      "path": "math/0409-schur-complements-and-the-partitioned-inverse",
+      "first_solved_at": "2026-11-15T11:16:44.925Z",
+      "last_pushed_at": "2026-11-15T11:16:44.925Z"
+    },
+    "math:410": {
+      "kind": "math",
+      "id": "410",
+      "title": "Woodbury, Sherman-Morrison and the Matrix Determinant Lemma",
+      "difficulty": "medium",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/410",
+      "path": "math/0410-woodbury-sherman-morrison-and-the-matrix-determinant-lemma",
+      "first_solved_at": "2026-11-15T11:23:27.957Z",
+      "last_pushed_at": "2026-11-15T11:23:27.957Z"
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-11-15T11:27:14.472Z",
+      "last_pushed_at": "2026-11-15T11:27:14.472Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
